@@ -1,0 +1,2 @@
+- RGB_algorithm for EV3 color sensor
+- [RGB.pdf](https://github.com/user-attachments/files/17622812/RGB.pdf)
